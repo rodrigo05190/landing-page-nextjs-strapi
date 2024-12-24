@@ -28,7 +28,7 @@ const Map: React.FC<MapProps> = ({
 }) => {
   const { isLoaded } = useJsApiLoader({
     id: 'google-map-script',
-    googleMapsApiKey: 'AIzaSyDDqFAieCtHA88EFUQuDOI1A2ec28RJxlM',
+    googleMapsApiKey: '',
   });
 
   const [latLng, setLatLng] = useState({
