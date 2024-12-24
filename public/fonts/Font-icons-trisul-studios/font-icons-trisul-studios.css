@@ -1,0 +1,168 @@
+@font-face {
+  font-family: 'font-icons-trisul-studios';
+  src:
+    url('font-icons-trisul-studios.woff2?vqrtp1') format('woff2'),
+    url('font-icons-trisul-studios.ttf?vqrtp1') format('truetype'),
+    url('font-icons-trisul-studios.woff?vqrtp1') format('woff'),
+    url('font-icons-trisul-studios.svg?vqrtp1#font-icons-trisul-studios') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'font-icons-trisul-studios' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-localizacao:before {
+  content: "\e921";
+}
+.icon-metro:before {
+  content: "\e922";
+}
+.icon-rua:before {
+  content: "\e91e";
+}
+.icon-banco:before {
+  content: "\e91f";
+}
+.icon-empresas:before {
+  content: "\e91c";
+}
+.icon-negocios:before {
+  content: "\e91d";
+}
+.icon-beach:before {
+  content: "\e917";
+}
+.icon-brinquedoteca:before {
+  content: "\e918";
+}
+.icon-churrasqueira:before {
+  content: "\e919";
+}
+.icon-pet:before {
+  content: "\e91a";
+}
+.icon-playground:before {
+  content: "\e91b";
+}
+.icon-metro-outline:before {
+  content: "\e920";
+}
+.icon-calendario:before {
+  content: "\e900";
+}
+.icon-mapa:before {
+  content: "\e901";
+}
+.icon-metragem:before {
+  content: "\e902";
+}
+.icon-arrow-down:before {
+  content: "\e903";
+}
+.icon-check:before {
+  content: "\e905";
+}
+.icon-chat:before {
+  content: "\e904";
+}
+.icon-telefone-ligar:before {
+  content: "\e906";
+}
+.icon-mail:before {
+  content: "\e907";
+}
+.icon-whatsapp:before {
+  content: "\e916";
+}
+.icon-telefone:before {
+  content: "\e908";
+}
+.icon-close:before {
+  content: "\e909";
+}
+.icon-projeto-arquitetonico:before {
+  content: "\e90c";
+}
+.icon-projeto-decoracao:before {
+  content: "\e90d";
+}
+.icon-projeto-paisagistico:before {
+  content: "\e90e";
+}
+.icon-alimentacao:before {
+  content: "\e90f";
+}
+.icon-compras:before {
+  content: "\e910";
+}
+.icon-hospital:before {
+  content: "\e913";
+}
+.icon-mobilidade:before {
+  content: "\e914";
+}
+.icon-cultura:before {
+  content: "\e90a";
+}
+.icon-parques:before {
+  content: "\e90b";
+}
+.icon-ensino:before {
+  content: "\e911";
+}
+.icon-bicicletario:before {
+  content: "\e965";
+}
+.icon-coworking:before {
+  content: "\e966";
+}
+.icon-fitness:before {
+  content: "\e967";
+}
+.icon-hall-social:before {
+  content: "\e968";
+}
+.icon-lavanderia:before {
+  content: "\e969";
+}
+.icon-lobby:before {
+  content: "\e96a";
+}
+.icon-piscina:before {
+  content: "\e96b";
+}
+.icon-salao-festa:before {
+  content: "\e912";
+}
+.icon-arrow-left:before {
+  content: "\e96c";
+}
+.icon-arrow-right:before {
+  content: "\e96d";
+}
+.icon-curtir:before {
+  content: "\e9df";
+}
+.icon-predios:before {
+  content: "\e9e0";
+}
+.icon-predios-2:before {
+  content: "\e9e1";
+}
+.icon-grafico:before {
+  content: "\e915";
+}
